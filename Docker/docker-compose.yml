@@ -1,0 +1,9 @@
+version: '3'
+services:
+  apache:
+    image: docker.io/bitnami/apache:2.4-debian-10
+    ports:
+      - 80:8080
+      - 443:8443
+    volumes:
+      - /path_to_certs/certs:/certs

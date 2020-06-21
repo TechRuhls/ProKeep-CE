@@ -1,0 +1,1 @@
+docker run --name apache -p 8080:8080 -p 8443:8443 bitnami/apache:latest
