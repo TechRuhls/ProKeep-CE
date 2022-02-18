@@ -10,7 +10,7 @@ For the purpose of this exercise, I created a bitnami container running an apach
 
 ```docker-compose up -d```
 
-3. From your browser, navigate to ```http:localhost://8080``` or ```https://localhost:8443``` and you will the see the default page for the apache web server.
+3. From your browser, navigate to ```http:localhost://8080``` or ```https://localhost:8443``` and you will then see the default page for the apache web server.
 
 ## SSL Certificate
 
